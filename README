@@ -1,0 +1,8 @@
+RU
+Простая кроссплатформенная программка для перевода версии PDF файлов и слияния комментариев в них (превращения их в картинки).
+Текущая версия 0.7b
+EN 
+Simple crossplatform program for convert PDF version and flatten annotations
+
+TO RUN:
+Install java runtime, type in consol: "java -jar PDFVCh.jar"
